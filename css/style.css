@@ -9,7 +9,7 @@ body{
 }
 
 main{
-    background: url(../img/background.png) no-repeat;
+    background: url(./img/background.png) no-repeat;
     background-position: top;
     padding-top: 110px;
 }
@@ -140,7 +140,7 @@ img {
 
 .block-email{
     width: 100%;
-    background: url(../img/girl.png) no-repeat;
+    background: url(./img/girl.png) no-repeat;
     background-size: contain;
     background-position: right;
     min-height: 383px;
@@ -183,7 +183,7 @@ img {
     width: 100%;
     max-width: 944px;
     min-height: 531px;
-    background: url(../img/people-street.png) no-repeat;
+    background: url(./img/people-street.png) no-repeat;
     margin-bottom: 98px;
 }
 
@@ -308,15 +308,15 @@ margin-bottom: 133px;
 }
 
 .form-img__photo1{
-    background: url(../img/Component\ 1.png) no-repeat; 
+    background: url(./img/Component\ 1.png) no-repeat; 
 }
 
 .form-img__photo2{
-    background: url(../img/Component\ 2.png) no-repeat; 
+    background: url(./img/Component\ 2.png) no-repeat; 
 }
 
 .form-img__photo3{
-    background: url(../img/Component\ 3.png) no-repeat; 
+    background: url(./img/Component\ 3.png) no-repeat; 
 }
 
 .size-photo{
